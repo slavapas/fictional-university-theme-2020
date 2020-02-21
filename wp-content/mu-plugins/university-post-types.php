@@ -2,11 +2,18 @@
 	// create custom post types
 	function university_post_types() {
 		register_post_type( 'event', array(
-			'public' => true, // this makes our  post type visible in admin area
-			'labels'=>array(
-				'name'=> 'Events'
+			'rewrite'=> array(
+				'slug'=>'events'
 			),
-			'menu_icon'=> 'dashicons-calendar'
+			'has_archive' => true,
+			'public'      => true, // this makes our  post type visible in admin area
+			'labels'      => array(
+				'name'          => 'Events',
+				'add_new_item'  => 'Add Event',
+				'all_items'     => 'All Events',
+				'singular_name' => 'Event'
+			),
+			'menu_icon'   => 'dashicons-calendar'
 		) );
 	}
 	
