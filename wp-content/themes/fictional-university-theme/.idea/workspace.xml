@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="167e563d-4993-485c-a8a3-76351242bf76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mu-plugins/university-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mu-plugins/university-post-types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive-event.php" beforeDir="false" afterPath="$PROJECT_DIR$/archive-event.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/front-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prepros.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-event.php" beforeDir="false" afterPath="$PROJECT_DIR$/single-event.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,9 @@
     <joomlaPath />
   </component>
   <component name="ProjectId" id="1XelhZwKOfblsK0Vn9JaINllh1d" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,6 +66,7 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -107,12 +108,27 @@
       <workItem from="1582215497795" duration="171000" />
       <workItem from="1582221528826" duration="3251000" />
       <workItem from="1582225603172" duration="3311000" />
-      <workItem from="1582229041788" duration="871000" />
+      <workItem from="1582229041788" duration="1173000" />
+      <workItem from="1582275765747" duration="6823000" />
+      <workItem from="1582290252418" duration="313000" />
+      <workItem from="1582290577120" duration="335000" />
+      <workItem from="1582377139388" duration="126000" />
+      <workItem from="1582531380124" duration="357000" />
+      <workItem from="1582531749116" duration="1268000" />
+      <workItem from="1582822649245" duration="1399000" />
+      <workItem from="1582828839650" duration="5826000" />
+      <workItem from="1582885478181" duration="887000" />
+      <workItem from="1583160441503" duration="5929000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="242" key="#Notifications" timestamp="1581578949048">
@@ -127,18 +143,18 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="815" y="325" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1582054312310" />
-    <state x="795" y="512" key="NewPhpFileDialog" timestamp="1582228322708">
+    <state x="795" y="512" key="NewPhpFileDialog" timestamp="1582283402686">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="795" y="512" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1582228322708" />
-    <state x="463" y="226" width="1144" height="708" key="SettingsEditor" timestamp="1581793409835">
+    <state x="795" y="512" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1582283402686" />
+    <state x="463" y="226" width="1144" height="708" key="SettingsEditor" timestamp="1583164808048">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="463" y="226" width="1144" height="708" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1581793409835" />
-    <state x="623" y="255" key="search.everywhere.popup" timestamp="1581414995529">
+    <state x="463" y="226" width="1144" height="708" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583164808048" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1582835443563">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="623" y="255" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1581414995529" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1582835443563" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\laragon\www\fictional-university-2020</wordpressPath>
