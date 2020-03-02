@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="167e563d-4993-485c-a8a3-76351242bf76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../mu-plugins/university-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mu-plugins/university-post-types.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive-event.php" beforeDir="false" afterPath="$PROJECT_DIR$/archive-event.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/front-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-event.php" beforeDir="false" afterPath="$PROJECT_DIR$/single-event.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +112,8 @@
       <workItem from="1582822649245" duration="1399000" />
       <workItem from="1582828839650" duration="5826000" />
       <workItem from="1582885478181" duration="887000" />
-      <workItem from="1583160441503" duration="5929000" />
+      <workItem from="1583160441503" duration="6562000" />
+      <workItem from="1583179395432" duration="173000" />
     </task>
     <servers />
   </component>
